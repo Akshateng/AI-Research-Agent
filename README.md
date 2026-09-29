@@ -1,4 +1,4 @@
-# ResearchMind
+# AI RESEARCH AGENT
 
 ResearchMind is a multi-agent AI research assistant that turns a topic into a structured research report and a critical review. It uses LangChain and Groq for orchestration and generation, Tavily for web search, Beautiful Soup for page extraction, and Streamlit for its web interface.
 
